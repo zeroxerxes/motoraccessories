@@ -1,0 +1,2408 @@
+Uri: https://resource.manufacturer.cc/img/01.png
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\img\01.png
+Content Type: image/png
+
+Uri: https://resource.manufacturer.cc/img/02.png
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\img\02.png
+Content Type: image/png
+
+Uri: https://resource.manufacturer.cc/img/03.png
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\img\03.png
+Content Type: image/png
+
+Uri: https://resource.manufacturer.cc/img/04.png
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\img\04.png
+Content Type: image/png
+
+Uri: https://resource.manufacturer.cc/img/05.png
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\img\05.png
+Content Type: image/png
+
+Uri: https://resource.manufacturer.cc/img/06.png
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\img\06.png
+Content Type: image/png
+
+Uri: https://resource.manufacturer.cc/img/bg_01.png
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\img\bg_01.png
+Content Type: image/png
+
+Uri: https://resource.manufacturer.cc/img/bg_02.png
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\img\bg_02.png
+Content Type: image/png
+
+Uri: https://resource.manufacturer.cc/img/bg_03.png
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\img\bg_03.png
+Content Type: image/png
+
+Uri: https://resource.manufacturer.cc/img/bg_04.png
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\img\bg_04.png
+Content Type: image/png
+
+Uri: https://resource.manufacturer.cc/img/bg_05.png
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\img\bg_05.png
+Content Type: image/png
+
+Uri: https://resource.manufacturer.cc/img/bg_06.png
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\img\bg_06.png
+Content Type: image/png
+
+Uri: https://resource.manufacturer.cc/img/chart02_shadow.png
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\img\chart02_shadow.png
+Content Type: image/png
+
+Uri: https://resource.manufacturer.cc/img/chart03_01.png
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\img\chart03_01.png
+Content Type: image/png
+
+Uri: https://resource.manufacturer.cc/img/chart03_02.png
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\img\chart03_02.png
+Content Type: image/png
+
+Uri: https://resource.manufacturer.cc/img/chart03_03.png
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\img\chart03_03.png
+Content Type: image/png
+
+Uri: https://resource.manufacturer.cc/img/chart03_04.png
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\img\chart03_04.png
+Content Type: image/png
+
+Uri: https://resource.manufacturer.cc/img/chart03_05.png
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\img\chart03_05.png
+Content Type: image/png
+
+Uri: https://resource.manufacturer.cc/img/chart03_06.png
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\img\chart03_06.png
+Content Type: image/png
+
+Uri: https://s7.addthis.com/js/300/addthis_widget.js
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\js\300\addthis_widget.js
+Content Type: application/javascript
+
+Uri: https://shopsource.singoo.cc/175/general/ifZACeJcAmaeEA4f.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\175\general\ifZACeJcAmaeEA4f.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/25CAPJbJbs8psaFf.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\25CAPJbJbs8psaFf.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/25CAPJbJbs8psaFf.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\25CAPJbJbs8psaFf-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/3CfmJdkHDnDExQwb.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\3CfmJdkHDnDExQwb.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/3CfmJdkHDnDExQwb.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\3CfmJdkHDnDExQwb-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/3edzicw6Z44RNPxM.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\3edzicw6Z44RNPxM.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/47rNbnXKtKjBz63f.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\47rNbnXKtKjBz63f.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/4pdTJN7iKsSQb6aj.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\4pdTJN7iKsSQb6aj.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/52H2yWMSjA2azYpJ.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\52H2yWMSjA2azYpJ.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/52H2yWMSjA2azYpJ.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\52H2yWMSjA2azYpJ-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/57SrjhfE4hCsxSwP.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\57SrjhfE4hCsxSwP.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/57SrjhfE4hCsxSwP.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\57SrjhfE4hCsxSwP-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/58yPYFRiPac68Fti.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\58yPYFRiPac68Fti.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/5eWpnm3jXd6DPY3Y.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\5eWpnm3jXd6DPY3Y.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/5nMJmXSxjMDmdifE.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\5nMJmXSxjMDmdifE.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/62QN8M8hSzi262CD.png
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\62QN8M8hSzi262CD.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/6G5KKnMtfb7cZEjj.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\6G5KKnMtfb7cZEjj.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/6G5KKnMtfb7cZEjj.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\6G5KKnMtfb7cZEjj-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/6jZSy6JcPfaXShHc.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\6jZSy6JcPfaXShHc.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/6jZSy6JcPfaXShHc.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\6jZSy6JcPfaXShHc-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/6n48Abbn8KSczynj.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\6n48Abbn8KSczynj.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/6n48Abbn8KSczynj.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\6n48Abbn8KSczynj-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/6yPFpEDWDiAzsGYn.png
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\6yPFpEDWDiAzsGYn.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669771477
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-26.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669780450
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-74.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669782380
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-4.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669783038
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-69.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669788188
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-57.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669791124
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-75.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669793479
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-18.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669794676
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-109.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669795661
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-40.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669803197
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-88.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669804915
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-43.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669808371
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-98.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669814651
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-147.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669819224
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-30.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669819230
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-33.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669819821
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-113.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669825535
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-80.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669832157
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-107.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669837233
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-27.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669839507
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-138.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669839647
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-139.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669845745
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-72.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669849407
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-16.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669849460
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-35.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669852262
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-128.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669852296
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-148.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669852387
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-120.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669856231
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-60.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669856473
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-59.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669862840
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-50.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669868095
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-73.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669868840
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-106.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669869891
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-49.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669877440
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-37.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669880960
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-25.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669894915
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-79.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669895050
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-102.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669895687
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-32.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669897335
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-104.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669902883
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-48.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669904943
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-67.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669914166
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-140.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669920078
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-19.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669920142
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-133.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669920687
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-103.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669921796
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-126.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669931320
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-38.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669939596
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-55.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669939693
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-56.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669947895
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-142.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669953253
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-62.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669954176
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-61.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669955937
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-66.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669956197
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-94.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669964075
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-124.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669966881
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-111.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669970524
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-76.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669970930
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-47.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669977749
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-145.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669985155
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-64.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669986571
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-119.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669990823
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-101.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669992193
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-99.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669992242
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-108.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669993573
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-110.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1669998278
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-63.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670007187
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-46.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670009368
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-129.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670009998
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-122.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670016198
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-11.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670016762
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-78.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670018794
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-141.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670019007
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-135.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670019670
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-22.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670025981
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-12.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670035946
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-136.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670056271
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-36.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670064888
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-13.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670068857
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-127.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670079592
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-77.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670080693
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-131.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670102412
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-116.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670102541
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-14.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670105244
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-115.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670123095
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-130.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670147764
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-15.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670147789
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-29.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670147796
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-21.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670147803
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-39.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670151767
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-34.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670156525
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-144.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670166274
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-28.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670167317
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-132.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670172815
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-97.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670206656
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670211713
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-5.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670214832
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-114.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670214837
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-112.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670219070
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-58.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670220001
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-137.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670226151
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-7.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670226170
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-93.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670226186
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-134.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670229025
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-117.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670235283
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-81.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670237297
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-6.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670244042
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-3.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670246536
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-95.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670266712
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-82.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670292378
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-123.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670293171
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-91.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670296074
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-52.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670298911
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-42.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670299284
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-65.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670301241
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-84.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670301317
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-92.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670301330
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-90.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670304490
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-85.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670305861
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-8.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670307202
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-125.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670313320
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-9.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670320922
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-118.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670321301
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-17.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670326942
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-83.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670329922
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-1.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670333678
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-86.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670333725
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-87.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670343827
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-44.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670348710
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-23.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670359752
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-89.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670360058
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-54.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670360388
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-143.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670368159
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-2.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670368170
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-10.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670368581
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-20.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670368586
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-24.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670368596
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-31.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670368612
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-41.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670368614
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-53.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670368618
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-45.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670368626
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-51.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670368655
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-68.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670368660
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-70.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670368662
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-71.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670368706
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-96.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670368716
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-100.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670368723
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-105.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670368750
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-121.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/73pEiNycGrB8zQfm.png?v=1670370087
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\73pEiNycGrB8zQfm-146.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/8dCMM2R8EEdEx86s.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\8dCMM2R8EEdEx86s.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/8dCMM2R8EEdEx86s.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\8dCMM2R8EEdEx86s-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/8z6WXRDJRDXhftiE.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\8z6WXRDJRDXhftiE.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/aPWKcTDbbmpmn7ZZ.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\aPWKcTDbbmpmn7ZZ.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/aPWKcTDbbmpmn7ZZ.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\aPWKcTDbbmpmn7ZZ-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/atjf8iawiP5NbFJ6.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\atjf8iawiP5NbFJ6.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/atjf8iawiP5NbFJ6.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\atjf8iawiP5NbFJ6-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/aTnBJrfpejpBady6.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\aTnBJrfpejpBady6.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/aTnBJrfpejpBady6.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\aTnBJrfpejpBady6-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/AweZQ7kMktkjQYsT.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\AweZQ7kMktkjQYsT.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/AweZQ7kMktkjQYsT.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\AweZQ7kMktkjQYsT-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/b7ns7kmmZtCT856T.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\b7ns7kmmZtCT856T.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/BHWXkneccjPnehGN.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\BHWXkneccjPnehGN.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/bnWhixmkQ4fM5MTY.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\bnWhixmkQ4fM5MTY.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/bsknMbNYH6reiRpd.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\bsknMbNYH6reiRpd.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/bsknMbNYH6reiRpd.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\bsknMbNYH6reiRpd-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/bwGKbhTWGGJDJJDp.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\bwGKbhTWGGJDJJDp.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/BWN3phj8fZtWWJfG.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\BWN3phj8fZtWWJfG.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/bZADzCGAjHtTMFXN.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\bZADzCGAjHtTMFXN.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/bZADzCGAjHtTMFXN.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\bZADzCGAjHtTMFXN-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/C4ebpshTeDMxKwDE.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\C4ebpshTeDMxKwDE.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/C4ebpshTeDMxKwDE.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\C4ebpshTeDMxKwDE-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/c8J6jNK25bEY7xja.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\c8J6jNK25bEY7xja.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/c8J6jNK25bEY7xja.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\c8J6jNK25bEY7xja-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/cHA4BhJsKyHAQDBM.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\cHA4BhJsKyHAQDBM.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/cHA4BhJsKyHAQDBM.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\cHA4BhJsKyHAQDBM-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/CxfeckWZxGWJfaQH.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\CxfeckWZxGWJfaQH.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/D3j4ra2fjznhMeWz.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\D3j4ra2fjznhMeWz.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/D3j4ra2fjznhMeWz.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\D3j4ra2fjznhMeWz-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/d57RirhbtyY2a5Xw.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\d57RirhbtyY2a5Xw.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/DiBQHGDNfSTpr27y.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\DiBQHGDNfSTpr27y.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/Dss3zeRbDr5dpjHe.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\Dss3zeRbDr5dpjHe.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/dxe5fRNhHdrFW4BJ.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\dxe5fRNhHdrFW4BJ.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/dxe5fRNhHdrFW4BJ.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\dxe5fRNhHdrFW4BJ-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/DyenDymijp8PSbN7.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\DyenDymijp8PSbN7.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/DyenDymijp8PSbN7.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\DyenDymijp8PSbN7-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/E5hHiDB5JeSpB2WR.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\E5hHiDB5JeSpB2WR.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/E5hHiDB5JeSpB2WR.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\E5hHiDB5JeSpB2WR-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/e7iCADZJHmFyBxn8.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\e7iCADZJHmFyBxn8.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/e7iCADZJHmFyBxn8.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\e7iCADZJHmFyBxn8-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/Ec7NDDXrQRfEfzK6.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\Ec7NDDXrQRfEfzK6.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/Ec7NDDXrQRfEfzK6.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\Ec7NDDXrQRfEfzK6-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/edckaRxSb48RYher.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\edckaRxSb48RYher.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/edckaRxSb48RYher.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\edckaRxSb48RYher-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/eGSJ2h3ArNZfi6By.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\eGSJ2h3ArNZfi6By.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/EHnFDzZCXzTm8kr4.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\EHnFDzZCXzTm8kr4.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/esKjSfkeWap8PAQQ.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\esKjSfkeWap8PAQQ.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/esKjSfkeWap8PAQQ.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\esKjSfkeWap8PAQQ-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/EsxpcA64daPKSrYE.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\EsxpcA64daPKSrYE.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/EsxpcA64daPKSrYE.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\EsxpcA64daPKSrYE-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/F64fetDcr2QswFi3.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\F64fetDcr2QswFi3.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/FMinti8wywXrZQEt.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\FMinti8wywXrZQEt.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/FMinti8wywXrZQEt.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\FMinti8wywXrZQEt-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/fNc73mi4EesE4xtF.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\fNc73mi4EesE4xtF.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/fNc73mi4EesE4xtF.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\fNc73mi4EesE4xtF-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/GadREPPQtHHpDF6X.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\GadREPPQtHHpDF6X.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/GfHNrGe48QAWpYBY.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\GfHNrGe48QAWpYBY.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/GfHNrGe48QAWpYBY.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\GfHNrGe48QAWpYBY-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/GJyQfC3WHSASwr3p.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\GJyQfC3WHSASwr3p.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/GJyQfC3WHSASwr3p.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\GJyQfC3WHSASwr3p-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/GpFPK5fR5tkc7EkE.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\GpFPK5fR5tkc7EkE.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/GpFPK5fR5tkc7EkE.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\GpFPK5fR5tkc7EkE-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/hbRcB2bmbNG3GYEF.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\hbRcB2bmbNG3GYEF.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/hbRcB2bmbNG3GYEF.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\hbRcB2bmbNG3GYEF-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/hMbsKSYjMyyAYk5M.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\hMbsKSYjMyyAYk5M.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/hMbsKSYjMyyAYk5M.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\hMbsKSYjMyyAYk5M-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/hMXbZzt24YiY3a4w.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\hMXbZzt24YiY3a4w.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/hMXbZzt24YiY3a4w.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\hMXbZzt24YiY3a4w-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/hMzjMePzkkQjWZEw.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\hMzjMePzkkQjWZEw.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/hMzjMePzkkQjWZEw.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\hMzjMePzkkQjWZEw-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/HTdB8J44Y4Pc53HK.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\HTdB8J44Y4Pc53HK.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/HTdB8J44Y4Pc53HK.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\HTdB8J44Y4Pc53HK-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/htMXp8bkJFjiAPBA.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\htMXp8bkJFjiAPBA.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/htMXp8bkJFjiAPBA.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\htMXp8bkJFjiAPBA-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/hwtSmTTcKZw8kh8z.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\hwtSmTTcKZw8kh8z.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/HX5HwDWmbsp6kDdD.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\HX5HwDWmbsp6kDdD.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/hxKPB7sn6DhGRMib.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\hxKPB7sn6DhGRMib.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/hxKPB7sn6DhGRMib.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\hxKPB7sn6DhGRMib-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/i3ccsMHywyayYh5W.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\i3ccsMHywyayYh5W.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/i3ccsMHywyayYh5W.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\i3ccsMHywyayYh5W-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/i4chmGnfxsk38GJ7.png
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\i4chmGnfxsk38GJ7.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/J2yRBcmrJQXeQS4w.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\J2yRBcmrJQXeQS4w.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/J2yRBcmrJQXeQS4w.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\J2yRBcmrJQXeQS4w-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/JiWefYYPPR8BSKPE.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\JiWefYYPPR8BSKPE.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/JiWefYYPPR8BSKPE.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\JiWefYYPPR8BSKPE-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/JnHYWySbJDp2PiTt.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\JnHYWySbJDp2PiTt.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/JnHYWySbJDp2PiTt.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\JnHYWySbJDp2PiTt-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/JnwRwZmRMXYhNtFN.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\JnwRwZmRMXYhNtFN.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/jRydTK63c6mrjCEF.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\jRydTK63c6mrjCEF.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/jRydTK63c6mrjCEF.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\jRydTK63c6mrjCEF-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/JTTHRB5fs4sh4TYD.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\JTTHRB5fs4sh4TYD.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/JTTHRB5fs4sh4TYD.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\JTTHRB5fs4sh4TYD-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/JY5yYXezea2ps2fe.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\JY5yYXezea2ps2fe.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/JY5yYXezea2ps2fe.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\JY5yYXezea2ps2fe-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/k23Y5pAAAdWGpPWQ.png
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\k23Y5pAAAdWGpPWQ.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/Kba8ttfKeK26E7t5.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\Kba8ttfKeK26E7t5.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/kFXaSrMCznTMKFGc.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\kFXaSrMCznTMKFGc.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/kQQf7p5s4ebPjFKp.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\kQQf7p5s4ebPjFKp.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/kQQf7p5s4ebPjFKp.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\kQQf7p5s4ebPjFKp-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/kRdZkApzXbDBkjfP.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\kRdZkApzXbDBkjfP.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/Krtd7T8hxmN4mEJM.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\Krtd7T8hxmN4mEJM.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/Krtd7T8hxmN4mEJM.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\Krtd7T8hxmN4mEJM-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/KtWpijNb3p5pQKNs.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\KtWpijNb3p5pQKNs.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/KtWpijNb3p5pQKNs.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\KtWpijNb3p5pQKNs-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/KZpkrbz2mnxwDTzD.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\KZpkrbz2mnxwDTzD.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/M5HXBrdzRRYt6wYY.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\M5HXBrdzRRYt6wYY.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/M5HXBrdzRRYt6wYY.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\M5HXBrdzRRYt6wYY-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/M8FsynNYNfbmp4kz.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\M8FsynNYNfbmp4kz.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/M8FsynNYNfbmp4kz.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\M8FsynNYNfbmp4kz-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/M8XsHcGH6ewx4D7a.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\M8XsHcGH6ewx4D7a.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/M8XsHcGH6ewx4D7a.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\M8XsHcGH6ewx4D7a-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/mDdysG2RKxRkQGNB.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\mDdysG2RKxRkQGNB.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/mDdysG2RKxRkQGNB.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\mDdysG2RKxRkQGNB-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/mfkEnHcse4sYxMtM.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\mfkEnHcse4sYxMtM.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/mfkEnHcse4sYxMtM.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\mfkEnHcse4sYxMtM-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/mK7CzD38E5cpAmKJ.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\mK7CzD38E5cpAmKJ.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/MmfAPRtjnpDpGytb.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\MmfAPRtjnpDpGytb.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/MmfAPRtjnpDpGytb.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\MmfAPRtjnpDpGytb-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/MPpwRJRdTRXRB5Cc.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\MPpwRJRdTRXRB5Cc.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/MPpwRJRdTRXRB5Cc.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\MPpwRJRdTRXRB5Cc-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/mttCMSeZbsk3KeE8.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\mttCMSeZbsk3KeE8.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/mttCMSeZbsk3KeE8.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\mttCMSeZbsk3KeE8-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/mWjydmhkdmG8mfNt.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\mWjydmhkdmG8mfNt.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/mxJxx8Ni35QPXcWi.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\mxJxx8Ni35QPXcWi.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/mxJxx8Ni35QPXcWi.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\mxJxx8Ni35QPXcWi-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/N4JDhsGDhYBhYGBH.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\N4JDhsGDhYBhYGBH.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/N4JDhsGDhYBhYGBH.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\N4JDhsGDhYBhYGBH-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/Nk8G2ZAKYZcjNnMX.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\Nk8G2ZAKYZcjNnMX.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/Nk8G2ZAKYZcjNnMX.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\Nk8G2ZAKYZcjNnMX-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/NnmH3WAAfPCHwB2T.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\NnmH3WAAfPCHwB2T.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/NnmH3WAAfPCHwB2T.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\NnmH3WAAfPCHwB2T-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/NQwamhMXKtdDNecA.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\NQwamhMXKtdDNecA.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/NQwamhMXKtdDNecA.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\NQwamhMXKtdDNecA-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/nYmMNWeXAky4DW2Y.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\nYmMNWeXAky4DW2Y.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/P2MBWQxyZf3BWmrX.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\P2MBWQxyZf3BWmrX.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/P2MBWQxyZf3BWmrX.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\P2MBWQxyZf3BWmrX-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/PbJbCx5iSnDR3Bpi.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\PbJbCx5iSnDR3Bpi.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/PbJbCx5iSnDR3Bpi.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\PbJbCx5iSnDR3Bpi-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/piCMs8NJKXY7kx2T.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\piCMs8NJKXY7kx2T.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/piCMs8NJKXY7kx2T.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\piCMs8NJKXY7kx2T-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/PnaWSFZCfsETbMPf.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\PnaWSFZCfsETbMPf.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/PNPw7Q3mTac3B3Ft.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\PNPw7Q3mTac3B3Ft.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/pSFGN58GCDD7rm3n.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\pSFGN58GCDD7rm3n.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/Q6C2cM6AimYZs8jh.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\Q6C2cM6AimYZs8jh.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/Q6WZTzMwe45HNpkj.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\Q6WZTzMwe45HNpkj.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/Q6WZTzMwe45HNpkj.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\Q6WZTzMwe45HNpkj-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/QyKwkF5hZHeeYdEp.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\QyKwkF5hZHeeYdEp.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/QyKwkF5hZHeeYdEp.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\QyKwkF5hZHeeYdEp-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/R3TH3ZWST7jd8ahK.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\R3TH3ZWST7jd8ahK.jpg
+Content Type: image/webp
+
+Uri: https://shopsource.singoo.cc/235/general/rai8m6E83rPdfnne.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\rai8m6E83rPdfnne.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/RGJ5jxBhHPxirbzK.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\RGJ5jxBhHPxirbzK.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/RGJ5jxBhHPxirbzK.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\RGJ5jxBhHPxirbzK-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/rGt4xAJ8eYYrbpiM.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\rGt4xAJ8eYYrbpiM.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/rGt4xAJ8eYYrbpiM.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\rGt4xAJ8eYYrbpiM-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/rPtZ45xs4dZ8x23J.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\rPtZ45xs4dZ8x23J.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/rPtZ45xs4dZ8x23J.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\rPtZ45xs4dZ8x23J-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/RQ6tBczRK7yzAHTf.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\RQ6tBczRK7yzAHTf.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/rXRaYeWPMHHQKQ8W.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\rXRaYeWPMHHQKQ8W.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/s2wGhAahYHNHWpbi.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\s2wGhAahYHNHWpbi.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/s2wGhAahYHNHWpbi.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\s2wGhAahYHNHWpbi-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/S3jJ7erKabSeJrXC.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\S3jJ7erKabSeJrXC.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/S5AKn3HWttYQZw47.jpeg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\S5AKn3HWttYQZw47.jpeg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/Sc2wXijiGz2XkTxf.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\Sc2wXijiGz2XkTxf.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/Sfd6FD4WzT3RQ57Q.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\Sfd6FD4WzT3RQ57Q.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/Sfd6FD4WzT3RQ57Q.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\Sfd6FD4WzT3RQ57Q-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/Sfh2kTtmp6PWNNdQ.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\Sfh2kTtmp6PWNNdQ.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/Sfh2kTtmp6PWNNdQ.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\Sfh2kTtmp6PWNNdQ-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/SFykKXwP3byfwNax.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\SFykKXwP3byfwNax.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/SFykKXwP3byfwNax.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\SFykKXwP3byfwNax-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/SGr8GWQGh7tRxER7.png
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\SGr8GWQGh7tRxER7.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/sHmCE5BeEYbSW28j.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\sHmCE5BeEYbSW28j.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/ST7faNfJHHbaCFGX.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\ST7faNfJHHbaCFGX.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/Sty5HYZStap2JipG.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\Sty5HYZStap2JipG.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/StZHZ6dG6h8NT6ea.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\StZHZ6dG6h8NT6ea.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/sX5JHffxZA8diZjf.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\sX5JHffxZA8diZjf.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/sX5JHffxZA8diZjf.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\sX5JHffxZA8diZjf-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/SyMJA2czn657s6pD.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\SyMJA2czn657s6pD.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/SyMJA2czn657s6pD.mp4?t=1637844006037
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\SyMJA2czn657s6pD-1.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/SZXjdYQdybyh8GBR.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\SZXjdYQdybyh8GBR.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/SZXjdYQdybyh8GBR.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\SZXjdYQdybyh8GBR-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/t4fp8nhspFErYjNp.svg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\t4fp8nhspFErYjNp.svg
+Content Type: image/svg+xml
+
+Uri: https://shopsource.singoo.cc/235/general/TE722nW8ScsphhzB.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\TE722nW8ScsphhzB.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/TE722nW8ScsphhzB.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\TE722nW8ScsphhzB-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/TpWHzBfh83tbJn2R.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\TpWHzBfh83tbJn2R.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/TpWHzBfh83tbJn2R.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\TpWHzBfh83tbJn2R-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/WdddrYtT5PHtwcHT.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\WdddrYtT5PHtwcHT.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/WdddrYtT5PHtwcHT.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\WdddrYtT5PHtwcHT-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/WHpyhQhJZPSDNbYp.png
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\WHpyhQhJZPSDNbYp.png
+Content Type: image/png
+
+Uri: https://shopsource.singoo.cc/235/general/wMbPXMzBxBksbGR4.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\wMbPXMzBxBksbGR4.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/wMbPXMzBxBksbGR4.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\wMbPXMzBxBksbGR4-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/X3m3dCThHtCMC7Fd.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\X3m3dCThHtCMC7Fd.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/X3m3dCThHtCMC7Fd.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\X3m3dCThHtCMC7Fd-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/xjFGD6EG4dxnY82H.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\xjFGD6EG4dxnY82H.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/yc4PBYAaa2fjeMjM.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\yc4PBYAaa2fjeMjM.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/yE5RHK5bx2sSptRa.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\yE5RHK5bx2sSptRa.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/yhR7A7FeezcsXyzm.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\yhR7A7FeezcsXyzm.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/yhR7A7FeezcsXyzm.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\yhR7A7FeezcsXyzm-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/ykarJe7fKJixrzfn.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\ykarJe7fKJixrzfn.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/Ymcw3KQ5QRhYpPRE.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\Ymcw3KQ5QRhYpPRE.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/Ymcw3KQ5QRhYpPRE.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\Ymcw3KQ5QRhYpPRE-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/YSpAeRtwSErA2yT4.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\YSpAeRtwSErA2yT4.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/YSpAeRtwSErA2yT4.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\YSpAeRtwSErA2yT4-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/z77reRPackbDQHYJ.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\z77reRPackbDQHYJ.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/z77reRPackbDQHYJ.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\z77reRPackbDQHYJ-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/z8zfWb35n3npm5Ef.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\z8zfWb35n3npm5Ef.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/z8zfWb35n3npm5Ef.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\z8zfWb35n3npm5Ef-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/zPfs5EPzYCyQm357.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\zPfs5EPzYCyQm357.jpg
+Content Type: image/webp
+
+Uri: https://shopsource.singoo.cc/235/general/zR7pC7FWRESxTs67.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\zR7pC7FWRESxTs67.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/zR7pC7FWRESxTs67.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\zR7pC7FWRESxTs67-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/ZTfnFX4MdT48BTzS.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\ZTfnFX4MdT48BTzS.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/general/ZTfnFX4MdT48BTzS.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\ZTfnFX4MdT48BTzS-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/general/ztGM4nReAHHENktB.jpg
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\general\ztGM4nReAHHENktB.jpg
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/video/3kcSAdSf42xAGyNp.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\video\3kcSAdSf42xAGyNp.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/video/3kcSAdSf42xAGyNp.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\video\3kcSAdSf42xAGyNp-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/video/jPJHraT8MD8tGXZ5.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\video\jPJHraT8MD8tGXZ5.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/video/jPJHraT8MD8tGXZ5.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\video\jPJHraT8MD8tGXZ5-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/video/jt2MC3byKCD3aJTW.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\video\jt2MC3byKCD3aJTW.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/video/jt2MC3byKCD3aJTW.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\video\jt2MC3byKCD3aJTW-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/235/video/Ph7QAj7cWXeQbEZr.mp4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\video\Ph7QAj7cWXeQbEZr.mp4
+Content Type: video/mp4
+
+Uri: https://shopsource.singoo.cc/235/video/Ph7QAj7cWXeQbEZr.mp4?x-oss-process=video/snapshot,t_7000,f_jpg,w_800,h_600,m_fast
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\235\video\Ph7QAj7cWXeQbEZr-1.mp4
+Content Type: image/jpeg
+
+Uri: https://shopsource.singoo.cc/common/css/bootstrap.weber.css
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\css\bootstrap.weber.css
+Content Type: text/css
+
+Uri: https://shopsource.singoo.cc/common/css/coco-message.min.css
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\css\coco-message.min.css
+Content Type: text/css
+
+Uri: https://shopsource.singoo.cc/common/css/fx.css
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\css\fx.css
+Content Type: text/css
+
+Uri: https://shopsource.singoo.cc/common/css/lib/aos.css
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\css\lib\aos.css
+Content Type: text/css
+
+Uri: https://shopsource.singoo.cc/common/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://shopsource.singoo.cc/common/css/main-singoo.css
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\css\main-singoo.css
+Content Type: text/css
+
+Uri: https://shopsource.singoo.cc/common/css/otherstyle.css
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\css\otherstyle.css
+Content Type: text/css
+
+Uri: https://shopsource.singoo.cc/common/css/schedule.css
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\css\schedule.css
+Content Type: text/css
+
+Uri: https://shopsource.singoo.cc/common/css/slick.min.css
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\css\slick.min.css
+Content Type: text/css
+
+Uri: https://shopsource.singoo.cc/common/css/switchery.min.css
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\css\switchery.min.css
+Content Type: text/css
+
+Uri: https://shopsource.singoo.cc/common/css/video-js.min.css
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\css\video-js.min.css
+Content Type: text/css
+
+Uri: https://shopsource.singoo.cc/common/fonticon/Quicksand-Regular.eot
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\fonticon\Quicksand-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shopsource.singoo.cc/common/fonticon/Quicksand-Regular.eot?
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\fonticon\Quicksand-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shopsource.singoo.cc/common/fonticon/Quicksand-Regular.woff
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\fonticon\Quicksand-Regular.woff
+Content Type: font/woff
+
+Uri: https://shopsource.singoo.cc/common/fonts/Quicksand/Quicksand-Italic.ttf
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\fonts\Quicksand\Quicksand-Italic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://shopsource.singoo.cc/common/fonts/Quicksand/Quicksand-Regular.ttf
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\fonts\Quicksand\Quicksand-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://shopsource.singoo.cc/common/js/aos.js
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\js\aos.js
+Content Type: text/javascript
+
+Uri: https://shopsource.singoo.cc/common/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://shopsource.singoo.cc/common/js/coco-message.min.js
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\js\coco-message.min.js
+Content Type: application/javascript
+
+Uri: https://shopsource.singoo.cc/common/js/common.js
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\js\common.js
+Content Type: application/javascript
+
+Uri: https://shopsource.singoo.cc/common/js/custom.js
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\js\custom.js
+Content Type: application/javascript
+
+Uri: https://shopsource.singoo.cc/common/js/holder.min.js
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\js\holder.min.js
+Content Type: application/javascript
+
+Uri: https://shopsource.singoo.cc/common/js/jquery-2.1.4.min.js
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\js\jquery-2.1.4.min.js
+Content Type: application/javascript
+
+Uri: https://shopsource.singoo.cc/common/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://shopsource.singoo.cc/common/js/jquery.validate.min.js
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\js\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://shopsource.singoo.cc/common/js/js.js
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\js\js.js
+Content Type: application/javascript
+
+Uri: https://shopsource.singoo.cc/common/js/lazysizes.min.js
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\js\lazysizes.min.js
+Content Type: text/javascript
+
+Uri: https://shopsource.singoo.cc/common/js/ls.bgset.min.js
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\js\ls.bgset.min.js
+Content Type: application/javascript
+
+Uri: https://shopsource.singoo.cc/common/js/popper.min.js
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://shopsource.singoo.cc/common/js/schedule.js
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\js\schedule.js
+Content Type: application/javascript
+
+Uri: https://shopsource.singoo.cc/common/js/shopdetail-toB.js
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\js\shopdetail-toB.js
+Content Type: application/javascript
+
+Uri: https://shopsource.singoo.cc/common/js/skrollr.js
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\js\skrollr.js
+Content Type: application/javascript
+
+Uri: https://shopsource.singoo.cc/common/js/slick.min.js
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://shopsource.singoo.cc/common/js/switchery.min.js
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\js\switchery.min.js
+Content Type: application/javascript
+
+Uri: https://shopsource.singoo.cc/common/js/video-js.min.js
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\common\js\video-js.min.js
+Content Type: application/javascript
+
+Uri: https://shopsource.singoo.cc/sections/images/bg-fog-top.png
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\sections\images\bg-fog-top.png
+Content Type: image/png
+
+Uri: https://t.91syun.com/form.js
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\form.js
+Content Type: application/javascript
+
+Uri: https://t.91syun.com/track.js
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\track.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-E8CXY141GB
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\gtag\js-1
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-216076115-1
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.shanghaidieselpower.com/
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\index.htm
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/about-us
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\about-us.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/application-1
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\application-1.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/contact-us
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\contact-us.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/faq
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\faq.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/home
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\home.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/120c
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\120c.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/16a
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\16a.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/292-power
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\292-power.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/300
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\300.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/3g25-construction-vehicle
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\3g25-construction-vehicle.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/4100-stationary-pump
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\4100-stationary-pump.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/4102
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\4102.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/490-marine
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\490-marine.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/4bta39-m
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\4bta39-m.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/4jb1t-1
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\4jb1t-1.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/4jg2
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\4jg2.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/6105-stationary-pump
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\6105-stationary-pump.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/6bt-marine
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\6bt-marine.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/6hk1
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\6hk1.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/6m26-marine
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\6m26-marine.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/6wg1
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\6wg1.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/advance-for-boat
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\advance-for-boat.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/b125
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\b125.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/b140
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\b140.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/b210
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\b210.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/bf4m2012
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\bf4m2012.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/boat-engine-1
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\boat-engine-1.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/boat-engine-1?pageSize=12&sort=&pageIndex=1
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\boat-engine-1-2.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/boat-engine-1?pageSize=12&sort=&pageIndex=2
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\boat-engine-1-1.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/c240
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\c240.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/changchai-4168
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\changchai-4168.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/construction-engine-1
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\construction-engine-1.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/construction-engine-1?pageSize=12&sort=&pageIndex=1
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\construction-engine-1-2.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/construction-engine-1?pageSize=12&sort=&pageIndex=2
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\construction-engine-1-1.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/cummins
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\cummins.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/cummins-1
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\cummins-1.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/cummins-2
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\cummins-2.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/cummins-3
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\cummins-3.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/cummins-4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\cummins-4.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/cummins-4b-engine-for-water-pump
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\cummins-4b-engine-for-water-pump.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/cummins-4bt-construction-1
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\cummins-4bt-construction-1.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/cummins-6bt-construction
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\cummins-6bt-construction.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/cummins-6bt-engine-for-water-pump
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\cummins-6bt-engine-for-water-pump.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/cummins-6btaa-construction
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\cummins-6btaa-construction.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/cummins-6c-engine-for-water-pump
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\cummins-6c-engine-for-water-pump.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/cummins-6c-marine-2
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\cummins-6c-marine-2.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/cummins-6l-construction
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\cummins-6l-construction.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/cummins-kta38-marine-2
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\cummins-kta38-marine-2.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/cummins-qsb45-construction
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\cummins-qsb45-construction.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/cummins-qsb67-construction
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\cummins-qsb67-construction.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/cummins-qsc83-construction
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\cummins-qsc83-construction.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/cummins-qsm11-construction
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\cummins-qsm11-construction.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/d300
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\d300.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/d683
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\d683.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/deutz
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\deutz.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/deutz-1
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\deutz-1.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/deutz-bf4m1013-for-construction
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\deutz-bf4m1013-for-construction.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/deutz-f3l912-engine-for-construction
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\deutz-f3l912-engine-for-construction.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/deutz-f3l912-engine-for-water-pump
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\deutz-f3l912-engine-for-water-pump.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/deutz-f4l912-engine-for-construction
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\deutz-f4l912-engine-for-construction.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/deutz-f4l912-engine-for-water-pump
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\deutz-f4l912-engine-for-water-pump.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/deutz-f6l912-engine-for-construction
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\deutz-f6l912-engine-for-construction.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/deutz-f6l912-engine-for-water-pump
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\deutz-f6l912-engine-for-water-pump.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/deutz-f6l913-engine-for-construction
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\deutz-f6l913-engine-for-construction.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/deutz-f6l913-engine-for-water-pump
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\deutz-f6l913-engine-for-water-pump.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/deutz-tcd2015v6-for-construction
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\deutz-tcd2015v6-for-construction.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/deutz-tcd2015v8-for-construction
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\deutz-tcd2015v8-for-construction.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/doosan
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\doosan.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/doosan-pu126
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\doosan-pu126.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/doosan-pu126ti-engine-for-water-pump
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\doosan-pu126ti-engine-for-water-pump.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/ev80
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\ev80.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/fast-for-vehicle
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\fast-for-vehicle.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/fast-transmission
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\fast-transmission.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/faw
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\faw.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/faw-4d21-truck
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\faw-4d21-truck.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/faw-ca4d-vehicle-use
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\faw-ca4d-vehicle-use.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/faw-ca6d-truck
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\faw-ca6d-truck.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/generator-set-1
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\generator-set-1.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/hc138
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\hc138.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/hcd-400a
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\hcd-400a.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/hcd800
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\hcd800.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/hcl250
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\hcl250.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/industrial-power-engine
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\industrial-power-engine.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/industrial-power-engine?pageSize=12&sort=&pageIndex=2
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\industrial-power-engine-1.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/isuzu
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\isuzu.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/iveco-c9-vehicle
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\iveco-c9-vehicle.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/iveco-hongyan
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\iveco-hongyan.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/iveco-hongyan-1
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\iveco-hongyan-1.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/iveco-hongyan-2
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\iveco-hongyan-2.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/iveco-hongyan?pageSize=12&sort=&pageIndex=2
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\iveco-hongyan-3.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/lovol-1006-water-pump
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\lovol-1006-water-pump.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/marine-generator-6bt59-gm100-2
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\marine-generator-6bt59-gm100-2.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/mb242
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\mb242.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/mv100a
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\mv100a.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/quanchai-qc490
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\quanchai-qc490.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/r2v88-stationary-hydraulic-pump-use
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\r2v88-stationary-hydraulic-pump-use.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/sc7h
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\sc7h.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/sdec
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\sdec.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/sdec-1
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\sdec-1.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/sdec-sc15
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\sdec-sc15.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/sdec-sc33
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\sdec-sc33.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/shaft
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\shaft.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/shangchai-sc11-construction
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\shangchai-sc11-construction.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/single-cylinder
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\single-cylinder.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/sinnotruk-d12-marine
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\sinnotruk-d12-marine.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/sinotruk
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\sinotruk.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/sinotruk-1
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\sinotruk-1.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/sinotruk-wd615
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\sinotruk-wd615.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/sinotruk-wd615-marine-2
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\sinotruk-wd615-marine-2.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/transmission-1
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\transmission-1.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/vehicle-engine
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\vehicle-engine.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/wd10
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\wd10.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/weichai
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\weichai.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/weichai-1
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\weichai-1.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/weichai-2
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\weichai-2.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/weichai-3
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\weichai-3.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/weichai-land-generator-set
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\weichai-land-generator-set.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/weichai-marine-generator-set
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\weichai-marine-generator-set.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/weichai-wp10-engine-for-water-pump
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\weichai-wp10-engine-for-water-pump.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/weichai-wp6b144e201
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\weichai-wp6b144e201.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/weichai-wp6g-construction
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\weichai-wp6g-construction.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/whm6160
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\whm6160.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/wp12
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\wp12.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/wp13
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\wp13.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/wp6c
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\wp6c.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/yamaha
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\yamaha.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/yc6a
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\yc6a.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/yc6mk
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\yc6mk.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/yc6t
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\yc6t.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/yuchai
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\yuchai.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/yuchai-1
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\yuchai-1.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop/yuchai-land-use-generator-set
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop\yuchai-land-use-generator-set.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop?pageSize=12&sort=&pageIndex=1
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop-6.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop?pageSize=12&sort=&pageIndex=2
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop-1.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop?pageSize=12&sort=&pageIndex=3
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop-2.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop?pageSize=12&sort=&pageIndex=4
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop-3.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop?pageSize=12&sort=&pageIndex=5
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop-7.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop?pageSize=12&sort=&pageIndex=6
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop-8.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop?pageSize=12&sort=&pageIndex=7
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop-4.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shop?pageSize=12&sort=&pageIndex=8
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shop-5.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shopSearch?search=Cummins
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shopSearch.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shopSearch?search=Cummins&page=1
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shopSearch-6.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shopSearch?search=Cummins&page=2
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shopSearch-5.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shopSearch?search=Deutz
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shopSearch-1.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shopSearch?search=SDEC
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shopSearch-3.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shopSearch?search=Weichai
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shopSearch-2.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/shopSearch?search=Yuchai
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\shopSearch-4.html
+Content Type: text/html
+
+Uri: https://www.shanghaidieselpower.com/website/css/custom.css
+File Name: C:\Downloaded Web Sites\www.shanghaidieselpower.com\website\css\custom.css
+Content Type: text/css
+

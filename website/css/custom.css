@@ -1,0 +1,661 @@
+/* default */
+.dark .light , .light  , .dark .light  , .light  {
+	font-family: 'Quicksand';
+	font-size: 14px;
+	line-height: 1.5;
+	color: #555;
+}
+.light .dark , .dark  , .light .dark  , .dark  {
+	font-family: 'Quicksand';
+	font-size: 14px;
+	line-height: 1.5;
+	color: #ffffff;
+}
+.light-page {
+	background-color: #fff;
+}
+.dark-page {
+	background-color: #232122;
+}
+section.light, footer.light, header.light {
+}
+section.dark, footer.dark, header.dark {
+}
+.dark .section-line.light, .light .section-line, .dark .light .section-line, .section-line.light, .dark .section-line-container.light::after, .light .section-line-container::after, .dark .light .section-line-container::after, .section-line-container.light::after {
+	border-color: #D1D7DD;
+}
+.light .section-line.dark, .dark .section-line, .light .dark .section-line, .section-line.dark, .light .section-line-container.dark::after, .dark .section-line-container::after, .light .dark .section-line-container::after, .section-line-container.dark::after {
+	border-color: #888888;
+}
+.dark .bg-wrap.light, .light .bg-wrap, .dark .light .bg-wrap, .bg-wrap.light, .dark .bg-default.light, .light .bg-default, .dark .light .bg-default, .bg-default.light {
+	background-color: #fff;
+}
+.light .bg-wrap.dark, .dark .bg-wrap, .light .dark .bg-wrap, .bg-wrap.dark, .light .bg-default.dark, .dark .bg-default, .light .dark .bg-default, .bg-default.dark {
+	background-color: #232122;
+}
+.dark h1.light, .light h1, .dark .light h1, h1.light {
+	font-size: 40px;
+	font-weight: 200;
+	font-style: normal;
+	color: #222;
+}
+.light h1.dark, .dark h1, .light .dark h1, h1.dark {
+	font-size: 60px;
+	font-weight: 200;
+	font-style: normal;
+	color: #fff;
+}
+.dark h2.light, .light h2, .dark .light h2, h2.light {
+	font-size: 30px;
+	font-weight: 300;
+	font-style: normal;
+	color: #222;
+}
+.light h2.dark, .dark h2, .light .dark h2, h2.dark {
+	font-size: 40px;
+	font-weight: 300;
+	font-style: normal;
+	color: #fff;
+}
+.dark h3.light, .light h3, .dark .light h3, h3.light {
+	font-size: 24px;
+	font-weight: 400;
+	font-style: normal;
+	color: #444;
+}
+.light h3.dark, .dark h3, .light .dark h3, h3.dark {
+	font-size: 26px;
+	font-weight: 300;
+	font-style: normal;
+	color: #fff;
+}
+.dark h4.light, .light h4, .dark .light h4, h4.light {
+	font-size: 18px;
+	font-weight: 400;
+	font-style: normal;
+	color: #555;
+}
+.light h4.dark, .dark h4, .light .dark h4, h4.dark {
+	font-size: 18px;
+	font-weight: 400;
+	font-style: normal;
+	color: #fff;
+}
+.dark .btn.light, .light .btn, .dark .light .btn, .btn.light {
+	border-radius: 0px 0px 0px 0px;
+	border-width: 2px 2px 2px 2px;
+}
+.light .btn.dark, .dark .btn, .light .dark .btn, .btn.dark {
+	border-radius: 0px 0px 0px 0px;
+	border-width: 2px 2px 2px 2px;
+}
+.dark .btn-primary.light, .light .btn-primary, .dark .light .btn-primary, .btn-primary.light, .dark .badge-primary.light, .light .badge-primary, .dark .light .badge-primary, .badge-primary.light {
+	color: #FFF;
+	background-color: #AF9F8C;
+}
+.light .btn-primary.dark, .dark .btn-primary, .light .dark .btn-primary, .btn-primary.dark, .light .badge-primary.dark, .dark .badge-primary, .light .dark .badge-primary, .badge-primary.dark {
+	color: #FFF;
+	background-color: #AF9F8C;
+}
+.dark .btn-primary.light:hover, .light .btn-primary:hover, .dark .light .btn-primary:hover, .btn-primary.light:hover, .dark .btn-primary.light:active, .light .btn-primary:active, .dark .light .btn-primary:active, .btn-primary.light:active, .dark .btn-primary.active.light, .light .btn-primary.active, .dark .light .btn-primary.active, .btn-primary.active.light {
+	color: #ffffff;
+	background-color: #998B7A;
+}
+.light .btn-primary.dark:hover, .dark .btn-primary:hover, .light .dark .btn-primary:hover, .btn-primary.dark:hover, .light .btn-primary.dark:active, .dark .btn-primary:active, .light .dark .btn-primary:active, .btn-primary.dark:active, .light .btn-primary.active.dark, .dark .btn-primary.active, .light .dark .btn-primary.active, .btn-primary.active.dark {
+	color: #FFF;
+	background-color: #998B7A;
+}
+.dark .btn-outline-primary.light, .light .btn-outline-primary, .dark .light .btn-outline-primary, .btn-outline-primary.light {
+	color: #AF9F8C;
+}
+.light .btn-outline-primary.dark, .dark .btn-outline-primary, .light .dark .btn-outline-primary, .btn-outline-primary.dark {
+	color: #AF9F8C;
+}
+.dark .btn-outline-primary.light:hover, .light .btn-outline-primary:hover, .dark .light .btn-outline-primary:hover, .btn-outline-primary.light:hover, .dark .btn-outline-primary.light:active, .light .btn-outline-primary:active, .dark .light .btn-outline-primary:active, .btn-outline-primary.light:active, .dark .btn-outline-primary.active.light, .light .btn-outline-primary.active, .dark .light .btn-outline-primary.active, .btn-outline-primary.active.light {
+	color: #998B7A;
+}
+.light .btn-outline-primary.dark:hover, .dark .btn-outline-primary:hover, .light .dark .btn-outline-primary:hover, .btn-outline-primary.dark:hover, .light .btn-outline-primary.dark:active, .dark .btn-outline-primary:active, .light .dark .btn-outline-primary:active, .btn-outline-primary.dark:active, .light .btn-outline-primary.active.dark, .dark .btn-outline-primary.active, .light .dark .btn-outline-primary.active, .btn-outline-primary.active.dark {
+	color: #998B7A;
+}
+.dark .btn-primary.light, .light .btn-primary, .dark .light .btn-primary, .btn-primary.light, .dark .btn-outline-primary.light, .light .btn-outline-primary, .dark .light .btn-outline-primary, .btn-outline-primary.light {
+	border-color: #AF9F8C;
+}
+.light .btn-primary.dark, .dark .btn-primary, .light .dark .btn-primary, .btn-primary.dark, .light .btn-outline-primary.dark, .dark .btn-outline-primary, .light .dark .btn-outline-primary, .btn-outline-primary.dark {
+	border-color: #AF9F8C;
+}
+.dark .btn-primary.light:hover, .light .btn-primary:hover, .dark .light .btn-primary:hover, .btn-primary.light:hover, .dark .btn-primary.light:active, .light .btn-primary:active, .dark .light .btn-primary:active, .btn-primary.light:active, .dark .btn-primary.active.light, .light .btn-primary.active, .dark .light .btn-primary.active, .btn-primary.active.light, .dark .btn-outline-primary.light:hover, .light .btn-outline-primary:hover, .dark .light .btn-outline-primary:hover, .btn-outline-primary.light:hover, .dark .btn-outline-primary.light:active, .light .btn-outline-primary:active, .dark .light .btn-outline-primary:active, .btn-outline-primary.light:active, .dark .btn-outline-primary.active.light, .light .btn-outline-primary.active, .dark .light .btn-outline-primary.active, .btn-outline-primary.active.light {
+	border-color: #998B7A;
+}
+.light .btn-primary.dark:hover, .dark .btn-primary:hover, .light .dark .btn-primary:hover, .btn-primary.dark:hover, .light .btn-primary.dark:active, .dark .btn-primary:active, .light .dark .btn-primary:active, .btn-primary.dark:active, .light .btn-primary.active.dark, .dark .btn-primary.active, .light .dark .btn-primary.active, .btn-primary.active.dark, .light .btn-outline-primary.dark:hover, .dark .btn-outline-primary:hover, .light .dark .btn-outline-primary:hover, .btn-outline-primary.dark:hover, .light .btn-outline-primary.dark:active, .dark .btn-outline-primary:active, .light .dark .btn-outline-primary:active, .btn-outline-primary.dark:active, .light .btn-outline-primary.active.dark, .dark .btn-outline-primary.active, .light .dark .btn-outline-primary.active, .btn-outline-primary.active.dark {
+	border-color: #998B7A;
+}
+.dark .btn-secondary.light, .light .btn-secondary, .dark .light .btn-secondary, .btn-secondary.light, .dark .badge-secondary.light, .light .badge-secondary, .dark .light .badge-secondary, .badge-secondary.light {
+	color: #FFF;
+	background-color: #A2AAB1;
+}
+.light .btn-secondary.dark, .dark .btn-secondary, .light .dark .btn-secondary, .btn-secondary.dark, .light .badge-secondary.dark, .dark .badge-secondary, .light .dark .badge-secondary, .badge-secondary.dark {
+	color: #FFF;
+	background-color: #444;
+}
+.dark .btn-secondary.light:hover, .light .btn-secondary:hover, .dark .light .btn-secondary:hover, .btn-secondary.light:hover, .dark .btn-secondary.light:active, .light .btn-secondary:active, .dark .light .btn-secondary:active, .btn-secondary.light:active, .dark .btn-secondary.active.light, .light .btn-secondary.active, .dark .light .btn-secondary.active, .btn-secondary.active.light {
+	color: #FFF;
+	background-color: #91989F;
+}
+.light .btn-secondary.dark:hover, .dark .btn-secondary:hover, .light .dark .btn-secondary:hover, .btn-secondary.dark:hover, .light .btn-secondary.dark:active, .dark .btn-secondary:active, .light .dark .btn-secondary:active, .btn-secondary.dark:active, .light .btn-secondary.active.dark, .dark .btn-secondary.active, .light .dark .btn-secondary.active, .btn-secondary.active.dark {
+	color: #FFF;
+	background-color: #555;
+}
+.dark .btn-outline-secondary.light, .light .btn-outline-secondary, .dark .light .btn-outline-secondary, .btn-outline-secondary.light {
+	color: #A2AAB1;
+}
+.light .btn-outline-secondary.dark, .dark .btn-outline-secondary, .light .dark .btn-outline-secondary, .btn-outline-secondary.dark {
+	color: #888;
+}
+.dark .btn-outline-secondary.light:hover, .light .btn-outline-secondary:hover, .dark .light .btn-outline-secondary:hover, .btn-outline-secondary.light:hover, .dark .btn-outline-secondary.light:active, .light .btn-outline-secondary:active, .dark .light .btn-outline-secondary:active, .btn-outline-secondary.light:active, .dark .btn-outline-secondary.active.light, .light .btn-outline-secondary.active, .dark .light .btn-outline-secondary.active, .btn-outline-secondary.active.light {
+	color: #91989F;
+}
+.light .btn-outline-secondary.dark:hover, .dark .btn-outline-secondary:hover, .light .dark .btn-outline-secondary:hover, .btn-outline-secondary.dark:hover, .light .btn-outline-secondary.dark:active, .dark .btn-outline-secondary:active, .light .dark .btn-outline-secondary:active, .btn-outline-secondary.dark:active, .light .btn-outline-secondary.active.dark, .dark .btn-outline-secondary.active, .light .dark .btn-outline-secondary.active, .btn-outline-secondary.active.dark {
+	color: #888;
+}
+.dark .btn-secondary.light, .light .btn-secondary, .dark .light .btn-secondary, .btn-secondary.light, .dark .btn-outline-secondary.light, .light .btn-outline-secondary, .dark .light .btn-outline-secondary, .btn-outline-secondary.light {
+	border-color: #A2AAB1;
+}
+.light .btn-secondary.dark, .dark .btn-secondary, .light .dark .btn-secondary, .btn-secondary.dark, .light .btn-outline-secondary.dark, .dark .btn-outline-secondary, .light .dark .btn-outline-secondary, .btn-outline-secondary.dark {
+	border-color: #444;
+}
+.dark .btn-secondary.light:hover, .light .btn-secondary:hover, .dark .light .btn-secondary:hover, .btn-secondary.light:hover, .dark .btn-secondary.light:active, .light .btn-secondary:active, .dark .light .btn-secondary:active, .btn-secondary.light:active, .dark .btn-secondary.active.light, .light .btn-secondary.active, .dark .light .btn-secondary.active, .btn-secondary.active.light, .dark .btn-outline-secondary.light:hover, .light .btn-outline-secondary:hover, .dark .light .btn-outline-secondary:hover, .btn-outline-secondary.light:hover, .dark .btn-outline-secondary.light:active, .light .btn-outline-secondary:active, .dark .light .btn-outline-secondary:active, .btn-outline-secondary.light:active, .dark .btn-outline-secondary.active.light, .light .btn-outline-secondary.active, .dark .light .btn-outline-secondary.active, .btn-outline-secondary.active.light {
+	border-color: #91989F;
+}
+.light .btn-secondary.dark:hover, .dark .btn-secondary:hover, .light .dark .btn-secondary:hover, .btn-secondary.dark:hover, .light .btn-secondary.dark:active, .dark .btn-secondary:active, .light .dark .btn-secondary:active, .btn-secondary.dark:active, .light .btn-secondary.active.dark, .dark .btn-secondary.active, .light .dark .btn-secondary.active, .btn-secondary.active.dark, .light .btn-outline-secondary.dark:hover, .dark .btn-outline-secondary:hover, .light .dark .btn-outline-secondary:hover, .btn-outline-secondary.dark:hover, .light .btn-outline-secondary.dark:active, .dark .btn-outline-secondary:active, .light .dark .btn-outline-secondary:active, .btn-outline-secondary.dark:active, .light .btn-outline-secondary.active.dark, .dark .btn-outline-secondary.active, .light .dark .btn-outline-secondary.active, .btn-outline-secondary.active.dark {
+	border-color: #555;
+}
+/* end default */
+@media all and (max-width: 1279px) {
+	.dark h1.light, .light h1, .dark .light h1, h1.light {
+	font-size: 30px;
+	}
+	.dark h2.light, .light h2, .dark .light h2, h2.light {
+	font-size: 26px;
+	}
+	.light h2.dark, .dark h2, .light .dark h2, h2.dark {
+	font-size: 30px;
+	}
+}
+@media all and (max-width: 576px) {
+	.dark h1.light, .light h1, .dark .light h1, h1.light {
+	font-size: 26px;
+	}
+	.dark h2.light, .light h2, .dark .light h2, h2.light {
+	font-size: 22px;
+	}
+	.light h2.dark, .dark h2, .light .dark h2, h2.dark {
+	font-size: 22px;
+	}
+	.dark h3.light, .light h3, .dark .light h3, h3.light {
+	font-size: 16px;
+	}
+	.light h3.dark, .dark h3, .light .dark h3, h3.dark {
+	font-size: 16px;
+	}
+}
+ul {
+    margin: 0px;
+    padding: 0px;
+}
+.footer-section {
+  background: #151414;
+  position: relative;
+}
+.footer-cta {
+  border-bottom: 1px solid #373636;
+}
+.single-cta i {
+  color: #ff5e14;
+  font-size: 30px;
+  float: left;
+  margin-top: 8px;
+}
+.cta-text {
+  padding-left: 15px;
+  display: inline-block;
+}
+.cta-text h4 {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 2px;
+}
+.cta-text span {
+  color: #757575;
+  font-size: 15px;
+}
+.footer-content {
+  position: relative;
+  z-index: 2;
+}
+.footer-pattern img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 330px;
+  background-size: cover;
+  background-position: 100% 100%;
+}
+.footer-logo {
+  margin-bottom: 30px;
+}
+.footer-logo img {
+    max-width: 200px;
+}
+.footer-text p {
+  margin-bottom: 14px;
+  font-size: 14px;
+      color: #7e7e7e;
+  line-height: 28px;
+}
+.footer-social-icon span {
+  color: #fff;
+  display: block;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: 'Poppins', sans-serif;
+  margin-bottom: 20px;
+}
+.footer-social-icon a {
+  color: #fff;
+  font-size: 16px;
+  margin-right: 15px;
+}
+.footer-social-icon i {
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  line-height: 38px;
+  border-radius: 50%;
+}
+.facebook-bg{
+  background: #3B5998;
+}
+.twitter-bg{
+  background: #55ACEE;
+}
+.google-bg{
+  background: #DD4B39;
+}
+.footer-widget-heading h3 {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 40px;
+  position: relative;
+}
+.footer-widget-heading h3::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -15px;
+  height: 2px;
+  width: 50px;
+  background: #ff5e14;
+}
+.footer-widget ul li {
+  display: inline-block;
+  float: left;
+  width: 50%;
+  margin-bottom: 12px;
+}
+.footer-widget ul li a:hover{
+  color: #ff5e14;
+}
+.footer-widget ul li a {
+  color: #878787;
+  text-transform: capitalize;
+}
+.subscribe-form {
+  position: relative;
+  overflow: hidden;
+}
+.subscribe-form input {
+  width: 100%;
+  padding: 14px 28px;
+  background: #2E2E2E;
+  border: 1px solid #2E2E2E;
+  color: #fff;
+}
+.subscribe-form button {
+    position: absolute;
+    right: 0;
+    background: #ff5e14;
+    padding: 13px 20px;
+    border: 1px solid #ff5e14;
+    top: 0;
+}
+.subscribe-form button i {
+  color: #fff;
+  font-size: 22px;
+  transform: rotate(-6deg);
+}
+.copyright-area{
+  background: #202020;
+  padding: 25px 0;
+}
+.copyright-text p {
+  margin: 0;
+  font-size: 14px;
+  color: #878787;
+}
+.copyright-text p a{
+  color: #ff5e14;
+}
+.footer-menu li {
+  display: inline-block;
+  margin-left: 20px;
+}
+.footer-menu li:hover a{
+  color: #ff5e14;
+}
+.footer-menu li a {
+  font-size: 14px;
+  color: #878787;
+}
+
+
+.selectdiv {
+  position: relative;
+  /*Don't really need this just for demo styling*/
+  
+  float: left;
+  min-width: 200px;
+  margin: 50px 33%;
+}
+
+.selectdiv:after {
+    content: '\f078';
+    font: normal normal normal 17px/1 FontAwesome;
+    color: #0ebeff;
+    right: 11px;
+    top: 6px;
+    height: 34px;
+    padding: 15px 0px 0px 8px;
+    border-left: 1px solid #0ebeff;
+    position: absolute;
+    pointer-events: none;
+}
+
+/* IE11 hide native button (thanks Matt!) */
+select::-ms-expand {
+display: none;
+}
+
+.selectdiv select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  /* Add some styling */
+  
+  display: block;
+  width: 100%;
+  max-width: 320px;
+  height: 50px;
+  float: right;
+  margin: 5px 0px;
+  padding: 0px 24px;
+  font-size: 16px;
+  line-height: 1.75;
+  color: #333;
+  background-color: #ffffff;
+  background-image: none;
+  border: 1px solid #0ebeff;
+  -ms-word-break: normal;
+  word-break: normal;
+}
+
+/*
+Theme Name: Online Consulting
+Theme URI: https://gracethemes.com/themes/free-finance-wordpress-theme/
+Author: Grace Themes
+Author URI:
+Description: Online Consulting is a free finance WordPress theme oriented to consulting, business and financial services. It is perfect platform to create a professional website for business consultant, accountants, investment firms, insurance, tax advisor, startups, financial advisor, marketing and any other consultancy corporations. This is a versatile, tech-savvy and responsive multipurpose website theme that is developed to satisfy all business needs. This theme can also be used for corporate, business, personal blog, law firm, banking, ecommerce, fashion blog, yoga, charity, gym, travel, news, education, transport and any other general business needs. This theme is the perfect and reliable toolkit for crafting impressive websites to grow your online business. Demo Link: http://www.gracethemesdemo.com/online-consulting/
+
+/* = Page layout css
+-------------------------------------------------------------- */
+.left_panel_content{ float:left; width:65%; margin:0; padding:0 0 30px; }
+.left_panel_content ul, .left_panel_content ol{ margin:0 0 20px 20px; }
+.left_panel_content ul li, .left_panel_content ol li{ margin:0; }
+.left_panel_content ul ul, .left_panel_content ol ol{ margin:0 0 0 30px; }
+
+.fullwidth{ width:100% !important; float:none  !important;}
+.fullwidth p{ margin-bottom:15px;}
+
+.boxlayout{ width:1210px; margin:0 auto; background-color:#fff; position:relative; box-shadow:0 -8px 8px #111;}
+.fulllayout{ width:100% !important;}
+#site_content_panel{ padding:50px 0;}
+#site_content_panel p{ margin-bottom:30px;}
+
+
+
+
+/* = Site Header CSS
+-------------------------------------------------------------- */
+.site-header.fixed{ position: fixed; top:0; z-index:99999999; width:100%;}
+.cotact_info_area{ float:right; width:70%; color:#555; padding:25px 0; text-align:right; }
+
+.infobox{ display:inline-block; margin:0 0 0 4%; text-align:left; color:#262626; font-size:16px;}
+.infobox span{ float:right;}
+.infobox a{ color:#262626;}
+.infobox span strong{ display:block; text-align:left; font-weight:600; color:#262626; font-size:17px; }
+.infobox i{ float:left; margin:9px 15px 0 0; line-height:28px; text-align:center; font-size:40px; color:#666;}
+
+
+
+/* = Services 3 coloumn Section
+-------------------------------------- */
+#sections_first{ padding:0 0 80px; position:relative; z-index:9999; }
+#sections_first .container{ margin-top:-60px; }
+.page_three_box{ width:31%; float:left; margin:0 3% 0 0; position:relative; min-height:380px; box-sizing:border-box; text-align:center; background-color:#f5f5f5;}
+.page_three_box .page_img_box{  margin:0 auto; overflow:hidden; height:250px; background-color:#f5f5f5; position:relative; }
+.page_three_box .page_img_box::after{
+ content:"";
+ position:absolute;
+ width:100%;
+ height:100px;
+ bottom:-100px;
+ left:0;
+ right:0;
+ margin:auto;
+ border-radius: 50%;
+ box-shadow:0px 0px 0 40px #f5f5f5;
+}
+.page_three_box .page_img_box img{ height:auto; width:100%; vertical-align:top;}
+.page_three_box h3{ font-size:22px; font-weight:600; margin:0 0 25px;}
+.page_three_box h3 a{ color:#303030;}
+.page_content{ padding:10px 25px 25px ; position:relative;}
+.page_three_box:hover .page_img_box img{ display:block; opacity:0.4;}
+.page_content p{ margin-bottom:30px; line-height:24px;}
+
+/* = Welcome Section
+-------------------------------------- */
+#sections_second{ padding:80px 0; background-color:#f4f5f6}
+.about_imgcol{ width:45%; float:right; margin:0 0 0 5%; }
+.about_imgcol img{ width:100%; display:block; }
+.about_content_column{ width:50%; float:left; margin:0; }
+.about_content_column h3{ font-size:24px; font-weight:400; margin-bottom:30px; text-transform:uppercase;}
+.about_content_column h3 span{ font-size:60px; display:block; font-weight:800; color:#2684e5;}
+.about_content_column p{ margin-bottom:40px; line-height:28px; padding:0; }
+
+/* = Sidebar CSS
+-------------------------------------------------------------- */
+#sidebar{ float:right; width:28%;}
+aside.widget{ background-color:#fff; margin-bottom:30px; }
+h3.widget-title{padding:0 0 15px; margin:0 0 20px; color:#303030; font-size:24px; font-weight:600; position:relative; border-bottom:1px solid #ddd; }
+aside.widget ul{ list-style:disc; margin:0; padding:0; }
+#sidebar ul li{ border-bottom:1px dashed #eee; list-style:none; margin:0 0 2px; padding:7px 10px 7px 0;}
+#sidebar ul li a{ color:#3b3b3b; }
+#sidebar ul li a:hover{ color:#34c6f6;}
+#sidebar ul li:last-child{ border:none;}
+aside .textwidget{ padding:20px; background-color:#f5f5f4;}
+
+/*sidebar search form css*/
+#sidebar .search-form{ margin-bottom:20px;}
+#sidebar .search-form input.search-field{ background-color:#fff; width:80%; padding: 13px 15px 13px 15px; border:1px solid #ddd; }
+#sidebar .search-form input.search-submit{ background:url(images/search-icon.png) no-repeat center center #efc62c; padding: 12px 0 12px 0; font-size:0; width:20%; height:43px; float:right; border:0;}
+
+
+/* = Blog post styles
+-------------------------------------------------------------- */
+.posts_default_style{ margin:0 0 50px 0; padding:0;}
+.posts_default_style .blogthumbimg{ margin:0 0 20px 0; position:relative;}
+.posts_default_style .blogthumbimg img{ height:auto;}
+.posts_default_style h3, h3.single-title{ margin-bottom:15px; font-size:30px; font-weight:600;}
+.posts_default_style h3 a{ color:#484f5e;}
+.posts_default_style h3 a:hover{ color:#efc62c;}
+.posts_default_style p{ margin-bottom:20px;}
+.blog-meta{ font-style:italic; margin-bottom:8px;}
+.post-date, 
+.post-comment, 
+.post-categories, 
+.edit-link{ display:inline; color:#333; font-weight:600; text-transform:uppercase; margin:0 10px 0 0;} 
+.single_title{ margin-bottom:5px;}
+body.single-post .posts_default_style { width:100%; float:none; margin:0; }
+
+.blog_postmeta{ margin-bottom:20px; color:#888; }
+.blog_postmeta a{ color:#999;}
+.blog_postmeta a:hover{ color:#2684e5;}
+.blogpostmorebtn{ background-color:#505050; color:#fff; padding:10px 20px; font-weight:600; border-radius:3px; display:inline-block; }
+.blogpostmorebtn:hover{ background-color:#303030; color:#fff;}
+
+/* = Footer css
+-------------------------------------------------------------- */
+.site-footer{ background-color:#181717; padding:0; position:relative; color:#fff;}
+.copyright-txt span{color:#fff;}
+.powerby{ float:left; }
+.design-by { float:right;}
+.design-by a:hover{color:#999;}
+
+.site-footer h5{ margin:0 0 30px 0; font-size:24px; font-weight:600; color:#fff; }
+.site-footer .widget{ padding:30px 0 10px;}
+
+.footer-bottom{ background-color:#151414; color:#fff; position:relative; text-align:center; padding:20px 0;}
+.footer-bottom a:hover{ color:#fff;}
+
+.widget-column-1{ width:28%; float:left; margin:0 3% 0 0; }
+.widget-column-2{ width:18%; float:left; margin:0 3% 0 0; }
+.widget-column-3{ width:25%; float:left; margin:0 3% 0 0; }
+.widget-column-4{ width:20%; float:left; margin:0; }
+
+.site-footer ul{ margin:0; padding:0; list-style:inside disc;}
+.site-footer ul li { padding:0 0 8px 0; margin:0; color:#fff;}
+.site-footer ul li a { color:#fff; }
+.site-footer ul li a:hover, .site-footer ul li.current_page_item a { color:#2684e5; }
+
+/* = WooCommerce plugin css code
+-------------------------------------------------------------- */
+a.added_to_cart{background:#e1472f; padding:5px; display:inline-block; color:#fff; line-height:1;}
+a.added_to_cart:hover{background:#000000;}
+a.button.added:before{content:'' !important;}
+#bbpress-forums ul li{padding:0;}
+#subscription-toggle a.subscription-toggle{padding:5px 10px; display:inline-block; color:#e1472f; margin-top:4px;}
+textarea.wp-editor-area{border:1px #ccc solid;}
+.woocommerce input[type=text], .woocommerce textarea{border:1px #ccc solid; padding:4px;}
+form.woocommerce-ordering select{ padding:5px; color:#777777;}
+.woocommerce table.shop_table th, .woocommerce-page table.shop_table th{ color:#ff8a00;}
+.woocommerce ul.products li.product .price, .woocommerce-page ul.products li.product .price{ color:inherit !important;}
+h1.product_title, p.price{ margin-bottom:10px;}
+
+.woocommerce table.shop_table th, .woocommerce-page table.shop_table th{ color:#ff6d84;}
+.woocommerce ul.products li, #payment ul.payment_methods li{ list-style:none !important;}
+.woocommerce ul.products li.product .price, .woocommerce-page ul.products li.product .price{ color:inherit !important;}
+.woocommerce table.shop_table th, .woocommerce table.shop_table td{ border-bottom:0px !important}
+
+.woocommerce .quantity .qty{ padding:7px; border:1px solid #ccc;}
+.woocommerce-Price-amount.amount{font-size:14px !important;}
+.woocommerce div.product .product_title{ padding-bottom:20px !important;}
+.woocommerce div.product form.cart{ margin-top:15px !important;}
+
+
+/* = Contact Form 7 css
+-------------------------------------------------------------- */
+.wpcf7{ margin:30px 0 0; padding:0;}
+.wpcf7 input[type="text"], .wpcf7 input[type="tel"], .wpcf7 input[type="email"]{ width:40%; border:1px solid #cccccc; box-shadow:inset 1px 1px 2px #ccc; height:35px; padding:0 15px; color:#797979; margin-bottom:0;}
+.wpcf7 textarea{width:60%; border:1px solid #cccccc; box-shadow:inset 1px 1px 2px #ccc; height:150px; color:#797979; margin-bottom:25px; font:12px arial; padding:10px; padding-right:0;}
+.wpcf7 input[type="submit"]{background-color:#efc62c; width:auto; border:none; cursor:pointer; color:#ffffff; padding:10px 40px; border-radius:3px;}
+
+/* Accessibility */
+/* Text meant only for screen readers. */
+.screen-reader-text {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute !important;
+  width: 1px;
+  word-wrap: normal !important; 
+  /* Many screen reader and browser combinations announce broken words as they would appear visually. */
+}
+
+.screen-reader-text:focus {
+  background-color: #f1f1f1;
+  border-radius: 3px;
+  box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+  clip: auto !important;
+  clip-path: none;
+  color: #21759b;
+  display: block;
+  font-size: 14px;
+  font-size: 0.875rem;
+  font-weight: bold;
+  height: auto;
+  left: 5px;
+  line-height: normal;
+  padding: 15px 23px 14px;
+  text-decoration: none;
+  top: 5px;
+  width: auto;
+  z-index: 100000;
+  /* Above WP toolbar. */
+}
+
+/* Do not show the outline on the skip link target. */
+#site_content_panel[tabindex="-1"]:focus {
+  outline: 0;
+}
+
+/* = Comment Form css
+-------------------------------------------------------------- */
+h1.screen-reader-text{font-family: 'Assistant', sans-serif; font-size:22px;}
+.site-nav-previous, .nav-previous{ float:left;}
+.site-nav-next, .nav-next{ float:right;}
+h3#reply-title{ font-size:20px;}
+#comments{ margin:30px 0 0; padding:0;}
+nav#nav-below{ margin-top:15px;}
+
+/* Comment styles */
+ol.commentlist{list-style:none;}
+#commentform p{margin:5px 0;}
+#commentform label{display:block;}
+#commentform input#email, #commentform input#url, #commentform input#author, #commentform textarea, #commentform input#eazycfc_captcha{max-width:96%; border:1px #ccc solid; padding:5px 2%;}
+#commentform input#submit{ background-color:#32373a; border:none; padding:12px 25px; color:#fff; display:inline-block; cursor:pointer; border-radius:5px; text-transform:uppercase;}
+#commentform input#submit:hover{background:#34c6f6; color:#fff;}
+.form-allowed-tags{display:none;}
+.entry-content table, .comment-body table{ border-collapse:collapse; margin:10px 0;}
+.entry-content table td, .entry-content table th, .comment-body table td, .comment-body table th{padding:10px 5px; text-align:left;}
+.entry-content table th, .comment-body table th{color:#676767; font:normal 18px Oswald; border-bottom:1px #888 solid;}
+.entry-content table td, .comment-body table td{border-bottom:1px #ccc solid;}
+.fvch-codeblock:hover .comment-form-url{display:block !important;}
+.commentlist, ol.commentlist {list-style:none; box-shadow:0 0 5px #666; -moz-box-shadow:0 0 5px #666; -webkit-box-shadow:0 0 5px #666; -khtml-box-shadow:0 0 5px #666; margin:10px 0; background-color:#fff; padding:10px 0;}
+.commentlist li, ol.commentlist li { list-style:none; background-image:none !important; padding:0px 15px;}
+.commentlist li ol li.depth-2, .commentlist li ol li.depth-3, .commentlist li ol li.depth-4, ol.commentlist li ol li.depth-2, ol.commentlist li ol li.depth-3, ol.commentlist li ol li.depth-4 { border-bottom:none;}
+.commentlist li.bypostauthor article, ol.commentlist li.bypostauthor article { background:#f9ffe1;}
+.commentlist article, .commentlist li.bypostauthor li article, ol.commentlist li.bypostauthor li article { border:none !important; padding:10px; position:relative; background-color:#fff;}
+.commentlist li .fn { font-weight:normal; font-size:15px; font-style:normal;}
+.commentlist li.bypostauthor .fn, ol.commentlist li.bypostauthor .fn { color:#000;}
+img.avatar { vertical-align:middle; position:static; display:inline-block;}
+.commentlist article a time { display:block; clear:both; padding:5px 0 10px; font-size:11px; font-style:italic; }
+.commentlist, ol.commentlist p { font-size:14px;}
+.commentlist .reply span, ol.commentlist .reply span { display:none;}
+.commentlist .reply a, ol.commentlist .reply a { display:block;	padding:10px; text-align:center; background:#f6f6f6; margin:5px 0; border:1px #ddd solid;}
+.comment-author.vcard{display:inline-block; margin-right:15px;}
+.comment-list ul.children li.comment{background-image:none; padding-left:5px;}
